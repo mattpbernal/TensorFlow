@@ -51,7 +51,7 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.keras.ipynb) 
 
-I am making an edit on this line so as to move forward with an exercise. Let's hope everything goes well.
+Life is a highway
 
 If you want to learn more, please have a look at our [book](https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
 
